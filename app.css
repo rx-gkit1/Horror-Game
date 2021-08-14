@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Frijole', cursive;
+    color:red;
+    font-size:50px;
+}
+html {
+    background-image: url("background.gif");
+}
+button {
+    font-size:30px;
+    width:900px;
+    color:white;
+    background:black;
+}
